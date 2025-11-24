@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpiZWtqa3M3M2dhNnFlMjk4NGRkbXJkeHlya3o3aml1dGtrdGFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif"  />
+  <img height="258" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpiZWtqa3M3M2dhNnFlMjk4NGRkbXJkeHlya3o3aml1dGtrdGFtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif"  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- I’m a passionate programmer who started my journey at ProgrammingAdvices, where I built a strong foundation in C++ and algorithms using Flowchart.<br>By solving nearly 1,000 problem-solving challenges in C++, I developed a deep understanding of programming logic and efficient code design.<br>After mastering C++, I expanded my skills to C#, SQL, and the .NET Framework, gaining experience in building structured and scalable applications.<br>I also have solid knowledge of the C language and hands-on experience working with Linux systems.<br>I’m always eager to learn, improve, and contribute to projects that challenge my technical and creative abilities.</p>
+<p align="center">- I’m a passionate programmer who started my journey at ProgrammingAdvices, where I built a strong foundation in C++ and algorithms using Flowchart.<br>By solving nearly 1,000 problem-solving challenges in C++, I developed a deep understanding of programming logic and efficient code design.<br>After mastering C++, I expanded my skills to C#, SQL, and the .NET Framework, gaining experience in building structured and scalable applications.<br>I also have solid knowledge of the C language and hands-on experience working with Linux systems.<br>I’m always eager to learn, improve, and contribute to projects that challenge my technical and creative abilities.</p>
 
 ###
 
@@ -28,25 +28,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="49" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="49" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="49" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="49" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="49" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="49" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="49" alt="postgresql logo"  />
 </div>
 
 ###
